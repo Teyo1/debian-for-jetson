@@ -1,0 +1,6 @@
+sha256 checksums of the release files (built 2026-10-12, Jetson Linux R39.2.1, kernel 6.8.12-1021-tegra)
+
+46202f80a66a994e60ac46c770b0b1c0c8e0df31ba396bda35d01fe4938cc6c9  jetson-debian.img      (6213861376 bytes)
+3780a0117b0feb56cf6669097a45bd57b90a602be4b19155d9a557017b66b34e  jetson-debian.img.xz   (888630864 bytes)
+
+The .img.xz decompresses to exactly the .img. Check a downloaded file with:  sha256sum jetson-debian.img.xz

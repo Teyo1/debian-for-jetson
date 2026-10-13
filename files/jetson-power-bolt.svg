@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Power-mode tray icon for jetson-debian. Original artwork, CC0. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <path d="M37 3 12 36h16l-5 25 29-37H35z" fill="#FFC20E" stroke="#2b2200" stroke-width="3" stroke-linejoin="round"/>
+</svg>
